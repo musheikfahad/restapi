@@ -1,0 +1,32 @@
+{
+  "category" : "Super Hero Movies & Tv series",
+  "acceptedFranchises" : [ "DC", "Marvel" ],
+  "generes" : [ "Action", "Adventure", "Heroic", "Dark", "Gritty", "Funny", "Gore" ],
+  "movies" : [ {
+    "title" : "Batman : The Dark KNight",
+    "year" : 2008,
+    "cast" : [ "Christian Bale", "Heath Ledger" ]
+  }, {
+    "title" : "JUTICE LEAGUE : SNyder CUT",
+    "year" : 2021,
+    "cast" : [ "Henry Cavil", "Ben Affleck", "Gal GAdot" ]
+  }, {
+    "title" : "Spderman : No way Home",
+    "year" : 2022,
+    "cast" : [ "Tobey Mcguire", "Andrew Garfield", "Tom holland" ]
+  } ],
+  "tvSeries" : [ {
+    "title" : "Flash",
+    "year" : 2014
+  }, {
+    "title" : "Gotham TV Series",
+    "year" : 2018
+  }, {
+    "title" : "Super girl",
+    "year" : 2015
+  } ],
+  "otherDetails" : {
+    "country" : "USA ,ENgland",
+    "language" : "English only"
+  }
+}
